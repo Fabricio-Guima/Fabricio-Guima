@@ -56,13 +56,13 @@ Rantek is a SaaS platform built for merchants to publish and manage products thr
 
 🧱 Architecture Overview
 
-Backend: Laravel + Livewire 3 + Laravel Octane 🚀
+🧠 Backend: Laravel + Livewire 3 + Laravel Octane 🚀
 
-Frontend: Alpine.js for interactive components
+🎯 Frontend: Alpine.js for interactive components
 
-Security & Performance: Protected by Cloudflare
+🛡️ Security & Performance: Protected by Cloudflare
 
-Dockerized Stack:
+🐳 Dockerized Stack:
 
 PHP + Laravel + Required Extensions
 
@@ -74,7 +74,7 @@ Queue container with Supervisor for job handling and restarts
 
 NGINX as reverse proxy
 
-Storage: Cloudflare R2 for file and image uploads
+☁️ Storage: Cloudflare R2 for file and image uploads
 
 📊 GitHub Stats
 
@@ -88,4 +88,5 @@ Storage: Cloudflare R2 for file and image uploads
 💼 LinkedIn: linkedin.com/in/fabrícioguimarães
 
 Thanks for visiting! 🙌 🚀
+
 
