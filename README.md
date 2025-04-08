@@ -1,89 +1,91 @@
-Hi there, I'm Fabrício Guimarães 👋
+🚀 Hi there, I'm Fabrício Guimarães 👋
 
-I'm a fullstack developer passionate about high-performance applications, clean code, and scalable infrastructure. I love working with modern technologies like Laravel, Vue.js, Livewire, Docker, and cloud services like AWS and GCP.
+I'm a Fullstack Developer passionate about high-performance applications, clean code, and scalable infrastructure. I love working with modern technologies like Laravel, Vue.js, Livewire, Docker, and cloud services like AWS and GCP.
 
 🛠️ My Tech Stack
 
-Languages:
+💻 Languages
 
-PHP
+ PHP
 
-JavaScript
+ JavaScript
 
-TypeScript
+ TypeScript
 
-HTML
+ HTML
 
-CSS
+ CSS
 
-Bash
+ Bash
 
-Frameworks & Libraries:
+📦 Frameworks & Libraries
 
-Laravel
+ Laravel
 
-Livewire (v3)
+ Livewire (v3)
 
-Alpine.js
+ Alpine.js
 
-Vue.js
+ Vue.js
 
-Nuxt.js
+ Nuxt.js
 
-Tailwind CSS
+ Tailwind CSS
 
-DevOps & Infrastructure:
+⚙️ DevOps & Infrastructure
 
-Docker (Laravel, PHP with extensions, MySQL, Redis, Queue container)
+ Docker (Laravel, PHP with extensions, MySQL, Redis, Queue container)
 
-NGINX
+ NGINX
 
-Supervisor (for queue workers and process management)
+ Supervisor (queue workers and process management)
 
-Laravel Octane (performance boost)
+ Laravel Octane
 
-Cloudflare (protection and performance)
+ Cloudflare (protection and performance)
 
-Cloudflare R2 (for file and image storage)
+ Cloudflare R2 (file/image storage)
 
-GitHub Actions (CI/CD)
+ GitHub Actions (CI/CD)
 
-AWS & GCP (Cloud infrastructure)
+ AWS &  GCP (Cloud infrastructure)
 
-🚀 Featured Project: Rantek
+🌟 Featured Project: Rantek
 
-Rantek is a SaaS platform built for merchants to publish and manage products through a subscription-based system. The infrastructure is highly optimized for speed and reliability:
+Rantek is a SaaS platform built for merchants to publish and manage products through a subscription-based system. The infrastructure is highly optimized for speed and reliability. ⚡
 
-Backend: Laravel with Livewire 3 and Laravel Octane
+🧱 Architecture Overview
 
-Frontend Interactions: Alpine.js
+Backend: Laravel + Livewire 3 + Laravel Octane 🚀
 
-Cloudflare Protection
+Frontend: Alpine.js for interactive components
 
-Dockerized Architecture:
+Security & Performance: Protected by Cloudflare
 
-PHP + Laravel with necessary extensions
+Dockerized Stack:
+
+PHP + Laravel + Required Extensions
 
 MySQL
 
 Redis
 
-Queue container with Supervisor for background jobs and restarts
+Queue container with Supervisor for job handling and restarts
 
 NGINX as reverse proxy
 
-File Storage: Cloudflare R2
+Storage: Cloudflare R2 for file and image uploads
 
 📊 GitHub Stats
 
 
 
 
-📫 Contact
+📫 Contact Me
 
-Email: fabricioguimaraes55@gmail.com
+✉️ Email: fabricioguimaraes55@gmail.com
 
-LinkedIn: linkedin.com/in/fabrícioguimarães
+💼 LinkedIn: linkedin.com/in/fabrícioguimarães
 
-Thanks for visiting! 🚀
+Thanks for visiting! 🙌 🚀
 
