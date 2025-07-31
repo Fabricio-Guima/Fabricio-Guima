@@ -76,6 +76,8 @@ NGINX as reverse proxy
 
 ☁️ Storage: Cloudflare R2 for file and image uploads
 
+Project Link: https://rantek.io/inicio
+
 📊 GitHub Stats
 
 
